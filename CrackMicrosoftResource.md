@@ -32,7 +32,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [2 Sum](https://leetcode.com/problems/two-sum/)  | Done |Medium  |
 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Done |Medium  |
 | [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) | Done |Medium  |
-| [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
+| [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |Done  |Medium  |
 | [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | Done |Medium  |
 | [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  | Done |Medium  |
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |Done  |Medium  |
@@ -48,16 +48,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Find all sum combinations]( https://leetcode.com/problems/combination-sum/) |  |  |
+| [Find all sum combinations]( https://leetcode.com/problems/combination-sum/) |Done  | Medium |
 | [Regular Expression Matching]( https://leetcode.com/problems/regular-expression-matching/)  |  |  |
 | [Clone a directed graph](https://leetcode.com/problems/clone-graph/)  |  |  |
 | [Closest Meeting Point]( https://www.educative.io/m/closest-meeting-point) |  |  |
-| [Search 2D Matrix]( https://leetcode.com/problems/search-a-2d-matrix//) |  |  |
+| [Search 2D Matrix]( https://leetcode.com/problems/search-a-2d-matrix//) |Done  |Medium  |
 | [Is Binary Number Multiple of 3]( https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)  |  |  |
-| [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  |  |  |
-| [Majority Element]( https://leetcode.com/problems/majority-element/)  |  |  |
+| [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  |Done  |Medium  |
+| [Majority Element]( https://leetcode.com/problems/majority-element/)  |Done  |Medium  |
 | [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |  |  |
-| [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) |  |  |
+| [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) |Done  |Easy  |
 
 ---
 <br>
