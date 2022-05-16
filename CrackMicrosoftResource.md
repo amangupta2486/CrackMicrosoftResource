@@ -66,17 +66,17 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  |  |  |
-| [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |  |  |
-| [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  |  |  |
-| [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  |  |  |
-| [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  |Done  |Easy  |
+| [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |Done  |Easy  |
+| [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  |Done  |Easy  |
+| [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  |Done  |Easy  |
+| [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |Done |Medium  |
 | [Longest Even Length Substring such that Sum of First and Second Half is same]( https://practice.geeksforgeeks.org/problems/e015cb4d3f354b035d9665e7c8a54a7aefb1901b/1/) |  |  |
 | [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) |  |  |
 | [Mirror Tree]( https://leetcode.com/problems/invert-binary-tree/)  |  |  |
 | [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
 | [Determine if Two Trees are Identical]( https://leetcode.com/problems/same-tree/) |  |  |
-| [Max Rectangle in Binary Matrix]( https://leetcode.com/problems/maximal-rectangle/) |  |  |
+| [Max Rectangle in Binary Matrix]( https://leetcode.com/problems/maximal-rectangle/) | Done| Medium |
 | [Maximum Product Subarray ]( https://leetcode.com/problems/maximum-product-subarray/) |  |  |
 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1/) |  |  |
 | [Longest Arithmetic Subsequence]( https://leetcode.com/problems/longest-arithmetic-subsequence/) |  |  |
