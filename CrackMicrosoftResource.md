@@ -56,7 +56,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Is Binary Number Multiple of 3]( https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)  |  |  |
 | [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  |Done  |Medium  |
 | [Majority Element]( https://leetcode.com/problems/majority-element/)  |Done  |Medium  |
-| [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |  |  |
+| [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |Redo |Medium  |
 | [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) |Done  |Easy  |
 
 ---
@@ -71,7 +71,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  |Done  |Easy  |
 | [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  |Done  |Easy  |
 | [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |Done |Medium  |
-| [Longest Even Length Substring such that Sum of First and Second Half is same]( https://practice.geeksforgeeks.org/problems/e015cb4d3f354b035d9665e7c8a54a7aefb1901b/1/) |  |  |
+| [Longest Even Length Substring such that Sum of First and Second Half is same]( https://practice.geeksforgeeks.org/problems/e015cb4d3f354b035d9665e7c8a54a7aefb1901b/1/) |Done  |Medium  |
 | [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) | Done |Medium  |
 | [Mirror Tree]( https://leetcode.com/problems/invert-binary-tree/)  | Done |Medium  |
 | [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  | Done |Medium  |
