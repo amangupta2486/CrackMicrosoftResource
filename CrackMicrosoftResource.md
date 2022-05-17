@@ -98,9 +98,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Flip]( https://www.interviewbit.com/problems/flip/)  |  |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) | Done |Medium |
 | [Shortest Unsorted Continuous Subarray ]( https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | Done |Medium |
-| [Unique Paths]( https://leetcode.com/problems/unique-paths/) |  |  |
+| [Unique Paths]( https://leetcode.com/problems/unique-paths/) |Done |Medium  |
 | [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |
-| [Vertical Order Traversal of a Binary Tree ]( https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)  |  |  |
+| [Vertical Order Traversal of a Binary Tree ]( https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)  |Done |Medium  |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
 | [Populating Next Right Pointers in Each Node]( https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Done |Medium |
 | [Longest Increasing Subsequence]( https://leetcode.com/problems/longest-increasing-subsequence/) | Done |Medium |
@@ -114,24 +114,24 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ |
 | [Partition List](https://leetcode.com/problems/partition-list/) |  |  |
 | [Reverse Nodes in k-Group]( https://leetcode.com/problems/reverse-nodes-in-k-group/) |  |  |
-| [Tapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/) |  |  |
-| [Simplify Path](https://leetcode.com/problems/simplify-path/) |  |  |
+| [Tapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/) |Done |Medium  |
+| [Simplify Path](https://leetcode.com/problems/simplify-path/) | Done| Medium |
 | [Min Stack](https://leetcode.com/problems/min-stack/) |  |  |
 | [All Unique Permutations ](https://leetcode.com/problems/permutations-ii/) |  |  |
 | [Generate all Parentheses](https://leetcode.com/problems/generate-parentheses/)  |  |  |
-| [Largest Continuous Sequence Zero Sum](https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/)  |  |  |
+| [Largest Continuous Sequence Zero Sum](https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/)  |Done |Medium  |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |  |  |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/) |  |  |
 | [Construct Binary Tree From Inorder And Preorder]( https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |  |
-| [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |  |  |
+| [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) | | |
 | [Subsets](https://leetcode.com/problems/subsets-ii/) |  |  |
 | [Valid Sudoku]( https://leetcode.com/problems/valid-sudoku/) |  |  |
 | [Flatten Binary Tree to Linked List]( https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ )  |  |  |
 | [Gas Station]( https://leetcode.com/problems/gas-station/) |  |  |
 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
-| [Word ladder]( https://leetcode.com/problems/word-ladder-ii/) |  |  |
+| [Word ladder]( https://leetcode.com/problems/word-ladder-ii/) |Done |Medium  |
 | [Meeting Rooms]( https://www.interviewbit.com/problems/meeting-rooms/) |  |  |
-| [Distribute Candies]( https://leetcode.com/problems/distribute-candies/) |  |  |
+| [Distribute Candies]( https://leetcode.com/problems/distribute-candies/) |Done |Medium  |
 
 ---
 ## Contribute
