@@ -92,14 +92,14 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Spiral Matrix II]( https://leetcode.com/problems/spiral-matrix-ii/) |Done  |Medium  |
 | [Largest Number ]( https://leetcode.com/problems/largest-number/) |  |  |
 | [Maximum Distance](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | Done |Medium |
-| [Next Permutation]( https://leetcode.com/problems/next-permutation/) |  |  |
+| [Next Permutation]( https://leetcode.com/problems/next-permutation/) |Done  |Medium  |
 | [Anti Diagonals]( https://leetcode.com/problems/diagonal-traverse/)  | Done |Medium |
 | [Hotel Bookings Possible]( https://www.interviewbit.com/problems/hotel-bookings-possible/) | Done |Medium |
 | [Flip]( https://www.interviewbit.com/problems/flip/)  |  |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) | Done |Medium |
 | [Shortest Unsorted Continuous Subarray ]( https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | Done |Medium |
 | [Unique Paths]( https://leetcode.com/problems/unique-paths/) |Done |Medium  |
-| [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |
+| [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/) |Done  |Medium  |
 | [Vertical Order Traversal of a Binary Tree ]( https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)  |Done |Medium  |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
 | [Populating Next Right Pointers in Each Node]( https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Done |Medium |
