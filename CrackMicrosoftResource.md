@@ -89,7 +89,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Spiral Matrix II]( https://leetcode.com/problems/spiral-matrix-ii/) |  |  |
+| [Spiral Matrix II]( https://leetcode.com/problems/spiral-matrix-ii/) |Done  |Medium  |
 | [Largest Number ]( https://leetcode.com/problems/largest-number/) |  |  |
 | [Maximum Distance](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | Done |Medium |
 | [Next Permutation]( https://leetcode.com/problems/next-permutation/) |  |  |
@@ -112,7 +112,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Partition List](https://leetcode.com/problems/partition-list/) |  |  |
+| [Partition List](https://leetcode.com/problems/partition-list/) |Done  |Medium  |
 | [Reverse Nodes in k-Group]( https://leetcode.com/problems/reverse-nodes-in-k-group/) |  |  |
 | [Tapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/) |Done |Medium  |
 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Done| Medium |
